@@ -1,9 +1,10 @@
 # market-detection
 This repository contains code examples from the paper: *Satellite-Based Food Market Detection for Micronutrient Deficiency Prediction.*
 
-<img align="center" src="Photo%training-exs/sat1.png">
+<img align="center" src="training-exs/sat1.png" width="400">
 
-<img align="center" src="Photo%training-exs/mask1.png">
+<img align="center" src="training-exs/mask1.png" width="400">
+
 
 
 ## Abstract
